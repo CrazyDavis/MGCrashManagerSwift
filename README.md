@@ -1,0 +1,2 @@
+# MGCrashManagerSwift
+Crash Collection
