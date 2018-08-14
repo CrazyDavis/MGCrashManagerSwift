@@ -5,9 +5,11 @@
 
 崩潰訊息蒐集
 
-版本更迭:  
-0.0.1 - 初始發布
+## 版本  
+0.0.1 - 初始發布  
 
-使用方式:  
-pod 'MGCrashManagerSwift', '~> {version}'
+## 添加依賴
 
+### Cocoapods
+pod 'MGCrashManagerSwift', '~> {version}'  
+( 其中 {version} 請自行替入此版號 ![](https://img.shields.io/cocoapods/v/MGCrashManagerSwift.svg?style=flat) )  
