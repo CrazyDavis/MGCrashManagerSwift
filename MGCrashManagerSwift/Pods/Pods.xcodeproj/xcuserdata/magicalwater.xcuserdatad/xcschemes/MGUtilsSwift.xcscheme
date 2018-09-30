@@ -14,7 +14,7 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "9C8CE92D43BC50C980E70353772FD2F4"
+               BlueprintIdentifier = "B8F365886CF56A5CDFE5104F09CCF897"
                BlueprintName = "MGUtilsSwift"
                ReferencedContainer = "container:Pods.xcodeproj"
                BuildableName = "MGUtilsSwift.framework">
