@@ -19,7 +19,7 @@ Pod::Spec.new do |s|
 
   s.source_files = "MGCrashManagerSwift/MGCrashManagerSwift/Classes/*"
 
-  s.frameworks   = "Foundation", "MachO"
+  # s.frameworks   = "Foundation", "MachO"
 
   s.dependency 'MGUtilsSwift'
 
